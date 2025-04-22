@@ -16,7 +16,6 @@ public class List2_exec04 {
 		double mediaNotas[] = new double[notasBimestrais.length];
 		int i = 0;
 		
-		System.out.println(notasBimestrais.length);
 		
 		for(int linha=0; linha < notasBimestrais.length; linha++) {
 			int sumNotas = 0;
